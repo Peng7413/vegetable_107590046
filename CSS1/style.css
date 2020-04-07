@@ -1,0 +1,195 @@
+.bg {
+    width: 1260px;
+    height: 880px;
+    background-color: #edf2c5;
+    margin-left: 160px;
+  }
+  .logo_Vegetables {
+    width: 271px;
+    height: 42px;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    margin-top: 15px;
+    margin-bottom: 0px;
+  }
+  .btn{
+    display: flex;
+    margin-top: 53px;
+  }
+  .btn_text{
+    display: flex;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.57;
+    letter-spacing: normal;
+    color: #778a50;
+    text-align: center;
+  }
+  .btn_line_login {
+    width: 1px;
+    height: 25px;
+    background-color: #778a50;
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+  .btn_image
+  {
+    margin-top: 20px;
+    margin-left: 449px;
+  }
+  .btn_image img
+  {
+    margin-left: 10px;
+  }
+  .btn_JOIN_box {
+    width: 50px;
+    height: 25px;
+    border-radius: 3px;
+    border: solid 1px #778a50;
+    margin-left: 10px;
+  }
+  .btn_LOGIN_box {
+    width: 60px;
+    height: 25px;
+    border-radius: 3px;
+    border: solid 1px #778a50;
+    margin-left: 10px;
+  }
+  .nav_box {
+    width: 940px;
+    height: 44px;
+    border-radius: 3px;
+    background-color: #778a50;
+  }
+  .nav_box_list li{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 60px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+.img_main_pumpkin {
+  width: 940px;
+  height: 448px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.table2{
+  display: flex;
+}
+.body_box_vegetables {
+  width: 445px;
+  height: 45px;
+  border-radius: 3px;
+  background-color: #778a50;
+  margin-bottom: 15px;
+  margin-right: 50px;
+}
+.body_box_contact {
+  width: 445px;
+  height: 45px;
+  border-radius: 3px;
+  background-color: #778a50;
+}
+.Vegetables {
+  width: 99px;
+  height: 15px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+  margin-left: 30px;
+  position:relative;
+  bottom:15px;
+}
+.Contact {
+  width: 69px;
+  height: 12px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+  margin-left: 30px;
+  position:relative;
+  bottom:15px;
+}
+.table3{
+  display: flex;
+}
+.other_vegetables img{
+  margin-right: 8px;
+}
+.body_box_contact_text {
+  width: 445px;
+  height: 140px;
+  border-radius: 3px;
+  background-color: #f7fbda;
+  margin-left: 42px;
+}
+.line_contact_text {
+  width: 414px;
+  height: 1px;
+  background-color: #7d7d7d;
+  margin-left: 15px;
+}
+p{
+    width: 410px;
+    height: 43px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+    margin-left: 15px;
+  }
+  .box_footer {
+    width: 940px;
+    height: 60px;
+    background-color: #778a50;
+  }
+  h5{
+    width: 302px;
+    height: 11px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3;
+    letter-spacing: normal;
+    text-align: center;
+    color: #edf2c5;
+    position:relative;
+    left: 319px;
+  }
